@@ -1,3 +1,7 @@
+#result
+<img width="1642" height="491" alt="Screenshot 2026-05-03 000001" src="https://github.com/user-attachments/assets/2ae477b6-b510-4623-8325-72cecc86e6a9" />
+<img width="827" height="691" alt="Screenshot 2026-05-02 235923" src="https://github.com/user-attachments/assets/1a46c55d-d82b-4a6d-a1d4-919b0e3ad50b" />
+
 # pneumonia-detection-xray
 # 🩺 Pneumonia Detection using Deep Learning
 
